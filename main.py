@@ -1,0 +1,1 @@
+word = input('input word: ')
